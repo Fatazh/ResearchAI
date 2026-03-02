@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="frontend/src/assets/img/logo.png" alt="ResearchAI Logo" width="80" />
-</p>
 
 <h1 align="center">🔬 ResearchAI — AI-Powered Smart Research Repository</h1>
 
